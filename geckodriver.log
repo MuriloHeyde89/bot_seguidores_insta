@@ -119,3 +119,13 @@ JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/
 1666289460977	Marionette	INFO	Stopped listening on port 55655
 JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 274: TypeError: this._builder is undefined
 JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 274: TypeError: this._builder is undefined
+1666289720539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofilevTOPyU"
+1666289722523	Marionette	INFO	Marionette enabled
+1666289722537	Marionette	INFO	Listening on port 55829
+1666289723119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofilevTOPyU\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i3EL4/yr/l/pt_BR/9lG1fLg4tsj.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i3EL4/yr/l/pt_BR/9lG1fLg4tsj.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i3EL4/yr/l/pt_BR/9lG1fLg4tsj.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
