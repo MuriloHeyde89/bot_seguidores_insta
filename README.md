@@ -9,7 +9,7 @@ Criação de um Bot que tem como principal e única função aumentar seu numero
 
 [x] Inserir automaticamente login e senha
 
-[x] 
+[x] Criar o método de curtir fotos (não está curtindo)
 
 [x] 
 
