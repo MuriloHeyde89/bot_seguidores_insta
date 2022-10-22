@@ -58,7 +58,7 @@ class InstagramBot:
             try:
                 pic_href.index("https://www.instagram.com/p")
             except ValueError as err:
-                print("Pulando link inválido!")
+                print("Pular link inválido!")
                 continue
             driver.get(pic_href)
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
