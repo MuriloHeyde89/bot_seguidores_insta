@@ -37,7 +37,7 @@ class InstagramBot:
             single_input_field.send_keys(letter)
             time.sleep(random.randint(1, 5) / 30)
 
-# Criar método de curtir fotos
+# Criar método de curtir fotos (ainda ocorrendo problemas provavel atualizações do Instagram)
     def curtir_fotos_com_a_hashtag(self, hashtag):
         driver = self.driver
         driver.get('https://www.instagram.com/explore/tags/' + hashtag + '/')

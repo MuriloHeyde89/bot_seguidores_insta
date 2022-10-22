@@ -9,7 +9,7 @@ Criação de um Bot que tem como principal e única função aumentar seu numero
 
 [x] Inserir automaticamente login e senha
 
-[x] 
+[x] Método de curtidas automaticas (ainda ocorrendo erros, provavelmente em virtude de atualizações do Instagram)
 
 [x] 
 
