@@ -864,3 +864,105 @@ JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666537635186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileFgnYsP"
+1666537636817	Marionette	INFO	Marionette enabled
+1666537636829	Marionette	INFO	Listening on port 56278
+1666537637824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileFgnYsP\\search.json.mozlz4", (void 0)))
+[Parent 12148, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666537920904	Marionette	INFO	Stopped listening on port 56278
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofile05dIbM"
+1666537820523	Marionette	INFO	Marionette enabled
+1666537820543	Marionette	INFO	Listening on port 56455
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666537822083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofile05dIbM\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666537928635	Marionette	INFO	Stopped listening on port 56455
+1666537951896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofile63kxV2"
+1666537953271	Marionette	INFO	Marionette enabled
+1666537953281	Marionette	INFO	Listening on port 56616
+1666537953833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofile63kxV2\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666537994175	Marionette	INFO	Stopped listening on port 56616
+1666538008386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofiley7T5PO"
+1666538009680	Marionette	INFO	Marionette enabled
+1666538009689	Marionette	INFO	Listening on port 56780
+1666538010289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofiley7T5PO\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666538049399	Marionette	INFO	Stopped listening on port 56780
+1666538057023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileOoH01b"
+1666538058310	Marionette	INFO	Marionette enabled
+1666538058319	Marionette	INFO	Listening on port 56936
+1666538059861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileOoH01b\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 71: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]

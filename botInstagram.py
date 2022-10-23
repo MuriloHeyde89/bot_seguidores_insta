@@ -43,8 +43,10 @@ class InstagramBot:
 # Criar método de curtir fotos (ainda ocorrendo problemas provavel atualizações do Instagram)
     def curtir_fotos_com_a_hashtag(self, hashtag):
         driver = self.driver
-        user_element = driver.find_element_by_xpath("//input[@name='Encontrar pessoas']")
-        user_element.clear()
+        driver.get('https://www.instagram.com/explore/')
+        time.sleep(3)
+        #user_element = driver.find_element_by_xpath("//input[@name='Encontrar pessoas']")
+        #user_element.clear()
         time.sleep(5)
         for i in range(1, 3): #alterar aqui a quantidade de páginas para descer
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -67,18 +69,9 @@ class InstagramBot:
             driver.get(pic_href)
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             try:
-                #driver.find_element_by_class_name('//button[@class="_9AhH0"')
-                #time.sleep(10)
-                
-                #driver.find_element_by_class_name("wpO6b").click()
-                #driver.find_elements_by_css_selector(".eos2AS section span button").click()
                 driver.find_element_by_xpath("/html/body/div[1]/section/main/div/div[1]/article/div[3]/section[1]/span[1]/button")
-                # driver.find_element_by_xpath("//span[@class='fr66n']").click() 
-
                 driver.find_element_by_class_name("eo2As").find_element_by_class_name("ltpMr").find_element_by_class_name("fr66n").find_element_by_tag_name("button").click()
                 time.sleep(random.randint(19,23))
-                #curtir_element.send_keys(Keys.RETURN)
-                # time.sleep(random.randint(19, 32))
             except Exception as e:
                 print(e)
 
