@@ -4,7 +4,10 @@ from operator import index
 from webbrowser import get
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
 import time
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 
 class InstagramBot:
     def __init__ (self, username, password):
@@ -26,7 +29,7 @@ class InstagramBot:
         password_element.send_keys(self.password)
         password_element.send_keys(Keys.RETURN)
         time.sleep(5)
-        self.curtir_fotos_com_a_hashtag('memes') #alterar a hashtag aqui
+        #self.curtir_fotos_com_a_hashtag('memes') #alterar a hashtag aqui
 
     @staticmethod
     def type_like_a_person(sentence, single_input_field):
@@ -40,7 +43,8 @@ class InstagramBot:
 # Criar método de curtir fotos (ainda ocorrendo problemas provavel atualizações do Instagram)
     def curtir_fotos_com_a_hashtag(self, hashtag):
         driver = self.driver
-        driver.get('https://www.instagram.com/explore/tags/' + hashtag + '/')
+        user_element = driver.find_element_by_xpath("//input[@name='Encontrar pessoas']")
+        user_element.clear()
         time.sleep(5)
         for i in range(1, 3): #alterar aqui a quantidade de páginas para descer
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
