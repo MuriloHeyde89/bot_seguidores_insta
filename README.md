@@ -1,6 +1,6 @@
-# Criação de um Bot Seguidores Insta
+# Criação de um Bot de Automação Instagram
 
-Criação de um Bot que tem como principal e única função aumentar seu numero de seguidores no instagram através do método de curtir publicações de pessoas aleatórias
+Criação de um Bot que tem como principal a automação da rede social Instagram.
 
 
 ## Lista de Tarefas
@@ -9,9 +9,9 @@ Criação de um Bot que tem como principal e única função aumentar seu numero
 
 [x] Inserir automaticamente login e senha
 
-[x] Criar o método de curtir fotos (não está curtindo)Método de curtidas automaticas (ainda ocorrendo erros, provavelmente em virtude de atualizações do Instagram)
+[x] Ir até o perfil da hashtag
 
-[x] 
+[x] Clicar no botão seguir
 
 [x] 
 
