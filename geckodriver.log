@@ -966,3 +966,680 @@ JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 71: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+1666642580389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileWRufWn"
+1666642582827	Marionette	INFO	Marionette enabled
+1666642582846	Marionette	INFO	Listening on port 54842
+1666642585459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileWRufWn\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666642940903	Marionette	INFO	Stopped listening on port 54842
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileMM909j"
+1666642767007	Marionette	INFO	Marionette enabled
+1666642767020	Marionette	INFO	Listening on port 55073
+1666642767868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileMM909j\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666642800997	Marionette	INFO	Stopped listening on port 55073
+1666642910564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileqreKP1"
+1666642912260	Marionette	INFO	Marionette enabled
+1666642912275	Marionette	INFO	Listening on port 54916
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666642913957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileqreKP1\\search.json.mozlz4", (void 0)))
+1666642938534	Marionette	INFO	Stopped listening on port 54916
+1666642948932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofile3lI7eF"
+1666642950420	Marionette	INFO	Marionette enabled
+1666642950432	Marionette	INFO	Listening on port 55104
+1666642950931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofile3lI7eF\\search.json.mozlz4", (void 0)))
+1666642954194	Marionette	INFO	Stopped listening on port 55104
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:101:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:61:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:554:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:642:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:57:30
+_submitPing@resource://gre/modules/EventPing.jsm:235:12
+shutdown@resource://gre/modules/EventPing.jsm:118:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:954:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1024:24
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:101:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:61:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:554:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:642:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:979:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1229:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1236:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1253:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:251:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:973:35
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:101:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:61:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:554:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:642:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1011:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1229:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1236:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1253:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:251:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:973:35
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1681:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:367:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1072:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:931:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:258:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:767:20
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:719:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:527:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:466:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1565:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1585:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:17:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:735:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:42
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1666643117505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileMNEFQ4"
+1666643118889	Marionette	INFO	Marionette enabled
+1666643118902	Marionette	INFO	Listening on port 55139
+1666643119589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileMNEFQ4\\search.json.mozlz4", (void 0)))
+1666643142423	Marionette	INFO	Stopped listening on port 55139
+1666643162810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofile3J97OH"
+1666643164215	Marionette	INFO	Marionette enabled
+1666643164228	Marionette	INFO	Listening on port 55314
+1666643164956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofile3J97OH\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666643183082	Marionette	INFO	Stopped listening on port 55314
+[Parent 9620, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1666643221009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofile3M9F9C"
+1666643222723	Marionette	INFO	Marionette enabled
+1666643222736	Marionette	INFO	Listening on port 55417
+1666643223939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofile3M9F9C\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666643256071	Marionette	INFO	Stopped listening on port 55417
+1666643267557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofilehdWWHa"
+1666643269197	Marionette	INFO	Marionette enabled
+1666643269210	Marionette	INFO	Listening on port 55516
+1666643269887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofilehdWWHa\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666643296805	Marionette	INFO	Stopped listening on port 55516
+1666643362725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofilexzy2z7"
+1666643364417	Marionette	INFO	Marionette enabled
+1666643364431	Marionette	INFO	Listening on port 55628
+1666643365752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofilexzy2z7\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666643389791	Marionette	INFO	Stopped listening on port 55628
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1666643460048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofiled3lMyz"
+1666643461437	Marionette	INFO	Marionette enabled
+1666643461452	Marionette	INFO	Listening on port 55789
+1666643462098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofiled3lMyz\\search.json.mozlz4", (void 0)))
+[Parent 5016, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 71: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:777:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:658:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _sendRequestBody@resource://devtools/server/actors/network-monitor/network-observer.js:1442:7
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:576:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1442, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1442))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:777:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:658:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _sendRequestBody@resource://devtools/server/actors/network-monitor/network-observer.js:1442:7
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:576:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1442, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1442))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:777:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:658:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _sendRequestBody@resource://devtools/server/actors/network-monitor/network-observer.js:1442:7
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:576:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1442, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1442))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1039:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:579:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1039, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1039))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:358:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1039:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:579:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1039, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1039))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:358:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1039:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:579:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1039, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1039))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:358:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+console.error: "Unable to find target with innerWindowId:8589934598"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934599/layout75, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:448:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666643767136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileacbBXD"
+1666643769233	Marionette	INFO	Marionette enabled
+1666643769253	Marionette	INFO	Listening on port 55962
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666643770949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileacbBXD\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yG/l/pt_BR/XMI_6UirtR2.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666643804001	Marionette	INFO	Stopped listening on port 55962
+[Parent 6492, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666644002985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofilecZictE"
+1666644004861	Marionette	INFO	Marionette enabled
+1666644004878	Marionette	INFO	Listening on port 56148
+1666644005930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofilecZictE\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666644027735	Marionette	INFO	Stopped listening on port 56148
+1666644256097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofiletGaCNv"
+1666644258483	Marionette	INFO	Marionette enabled
+1666644258505	Marionette	INFO	Listening on port 52814
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666644261719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofiletGaCNv\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666644417365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileJUb3JH"
+1666644418940	Marionette	INFO	Marionette enabled
+1666644418955	Marionette	INFO	Listening on port 49493
+1666644419376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileJUb3JH\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666644486397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileX3nJu0"
+1666644488452	Marionette	INFO	Marionette enabled
+1666644488468	Marionette	INFO	Listening on port 49633
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666644490653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileX3nJu0\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 71: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+1666704842666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofilebU7SSa"
+1666704844780	Marionette	INFO	Marionette enabled
+1666704844798	Marionette	INFO	Listening on port 50060
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666704848606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofilebU7SSa\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 71: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+console.error: "Unable to find target with innerWindowId:8589934594"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:777:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:658:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:777:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:658:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:777:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:658:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:777:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:658:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _sendRequestBody@resource://devtools/server/actors/network-monitor/network-observer.js:1442:7
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:576:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1442, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1442))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _sendRequestBody@resource://devtools/server/actors/network-monitor/network-observer.js:1442:7
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:576:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1442, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1442))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _sendRequestBody@resource://devtools/server/actors/network-monitor/network-observer.js:1442:7
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:576:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1442, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1442))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _sendRequestBody@resource://devtools/server/actors/network-monitor/network-observer.js:1442:7
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:576:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1442, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1442))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1039:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:579:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1039, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1039))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:358:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1039:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:579:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1039, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1039))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:358:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1039:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:579:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1039, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1039))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:358:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1039:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:579:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:688:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1039, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1039))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:98:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:187:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:731:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:358:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 98, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 98))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:8589934597"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:8589934598"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:8589934599"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666705287448	Marionette	INFO	Stopped listening on port 50060
+[Parent 12000, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+[Parent 12000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 71: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+console.error: "Unable to find target with innerWindowId:8589934594"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:8589934597"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666705287131	Marionette	INFO	Stopped listening on port 50236
+[Parent 11448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666705310837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofilexGJWjp"
+1666705312915	Marionette	INFO	Marionette enabled
+1666705312929	Marionette	INFO	Listening on port 50449
+1666705314136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofilexGJWjp\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 71: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+console.error: "Unable to find target with innerWindowId:8589934594"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934597/layout73, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:448:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934597/domwalker37, type getOffsetParent failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:202:56\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934597/pagestyle38, type isPositionEditable failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:195:50\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666705714322	Marionetconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofilenfsi1W\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666706217789	Marionette	INFO	Stopped listening on port 50681
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileECMi8r"
+1666706219927	Marionette	INFO	Marionette enabled
+1666706219943	Marionette	INFO	Listening on port 58447
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666706224098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1\\AppData\\Local\\Temp\\rust_mozprofileECMi8r\\search.json.mozlz4", (void 0)))
+[Parent 15632, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7N44/yS/l/pt_BR/UpmvRDrW_aq.js?_nc_x=Ij3Wp8lg5Kz, line 1828: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ip1w4/yg/l/pt_BR/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666706263390	Marionette	INFO	Stopped listening on port 58447
+[Parent 15632, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
