@@ -105,7 +105,7 @@ if __name__ == '__main__':
 
 
 
-MuriloBot = InstagramBot('Muriloheydeadvogado', '19022021')
+MuriloBot = InstagramBot('name', 'password')
 # Entre com o usuário e senha aqui
 MuriloBot.login()
 
